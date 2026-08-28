@@ -1,18 +1,16 @@
-<img height="70" align="right" src="./advancedtooltips-1.19/src/main/resources/assets/advancedtooltips/icon.png">
+<img height="70" align="right" src="./src/main/resources/assets/advancedtooltips/icon.png">
 
-# Advanced Tooltips
-[![CurseForge downloads](https://cf.way2muchnoise.eu/advanced-tooltips.svg)](https://www.curseforge.com/minecraft/mc-mods/advanced-tooltips)
-[![CurseForge versions](https://cf.way2muchnoise.eu/versions/advanced-tooltips.svg)](https://www.curseforge.com/minecraft/mc-mods/advanced-tooltips)
-[![Modrinth downloads](https://img.shields.io/modrinth/dt/advanced-tooltips?color=00AF5C&label=modrinth&style=flat&logo=modrinth)](https://modrinth.com/mod/advanced-tooltips)
-![Environment: server](https://img.shields.io/badge/environment-client-1976d2?style=flat)
-[![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/6bTGYFppfz)
+# Inspecio Reborn
+![Environment: client](https://img.shields.io/badge/environment-client-1976d2?style=flat)
+![Minecraft 1.21.11](https://img.shields.io/badge/minecraft-1.21.11-1976d2?style=flat)
+![Fabric](https://img.shields.io/badge/modloader-Fabric-1976d2?style=flat)
 
 More and better tooltips on items!
 
 ## What is this mod?
-**Advanced Tooltips** adds new tooltips to items like shulker boxes, filled maps, fish buckets, armor, food, banner patterns, and more! It's is also pretty configurable, most parts can be enabled/disabled to your heart's desire!
+Inspecio Reborn adds new tooltips to items like shulker boxes, filled maps, fish buckets, armor, food, banner patterns, and more! It's also pretty configurable, most parts can be enabled/disabled.
 
-This is a Fabric port of the now Quilt-exclusive mod "Inspecio", found [here](https://www.curseforge.com/minecraft/mc-mods/inspecio).
+This is a fork of [ReviversMC's Advanced Tooltips](https://github.com/ReviversMC/advanced-tooltips), itself a Fabric port of the Quilt-exclusive mod [Inspecio](https://github.com/Queerbric/Inspecio), rebuilt for Minecraft 1.21.11.
 
 
 
